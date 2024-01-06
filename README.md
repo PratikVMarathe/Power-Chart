@@ -1,3 +1,6 @@
+Streamlined healthcare processes, managing inpatients, and medications, and enhancing patient care through comprehensive clinical history and a user-friendly portal.
+Collaborated with a nine-member team, employed Java, MySQL, Spring Boot, and Hibernate for robust development, and followed Agile methodologies to ensure adaptability and client satisfaction in the project's implementation.
+The system empowers authorized users with a patient portal for viewing medical history while providing administrative tools for effective hospital and branch management with insights into financial transactions.
 # Power-Chart
 ## Description:
 - Developed the "Power Chart" project, a comprehensive healthcare management tool aimed at optimizing workflows for hospitals, physicians, and nurses.
